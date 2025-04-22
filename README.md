@@ -1,0 +1,2 @@
+# MDMLP
+Replikacia clanku MDMLP
