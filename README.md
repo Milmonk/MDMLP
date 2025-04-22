@@ -27,7 +27,7 @@ The implementation achieves:
 
 To train the model:
 
-python test.py
+python mdmlp.py
 
 ## Requirements
 
